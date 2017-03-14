@@ -1,7 +1,3 @@
-@extends('layouts.master')
-
-@section('content')
-
 <footer class="footer">
   <div class="container">
     <div class="row">
@@ -10,6 +6,3 @@
     </div>
   </div>
 </footer>
-
-
-@endsection
